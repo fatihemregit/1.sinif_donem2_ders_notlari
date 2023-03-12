@@ -22,11 +22,21 @@ Avantajları Nelerdir?
 Veritabanının avantajları sisteminin içeriğine göre değişir. Yani tek (single user) ya da çok (multi users) kullanım sağlayan sistemlerdir.
   - ## Tek Kullanıcılı(Single User) Sistemler
     Bazı veritabanları küçük ve basit olarak tanımlanır(Bence tek kullanıcılı veritabanına örnek olarak sqlite verilebilir)Fakat sağladığı avantajlar basit ve küçük değildir.  
-    Sağladığı Avantajlardan bazıları
+    Sağladığı Avantajlardan bazıları:
       - Herhangi bir evrak saklamaya gerek yoktur.
       - Makineler bilgileri insanlardan daha hızlı güncelleştirebilirler.
       - Tercih, zaman ve bilgiler istenildiği zaman görülebilir.
       - Birçok amacından çıkmış dosyaların elemesini rahatlıkla yapar.
+  - ## Çok Kullanıcılı (Multi Users) Sistemler
+    Tek kullanıcılı sistemlere  göre getireceği yararlar bakımından daha geniş ve karmaşık yapıya sahiptir.  
+    Yararları Şunlardır:
+      - Verilerin merkezi kontrolü sağlanır.
+      - Veri tekrarı azalır.
+      - Tutarsız (hatalı) bilgiler önlenir.
+      - Verinin paylaşımı sağlanır.
+      - Güvenlik ve bütünlük sağlanır.
+      - Genel veya özel raporlar alınabilir.
+
 
 
 
