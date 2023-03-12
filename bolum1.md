@@ -21,6 +21,6 @@ Veritabanı tasarlanırken birinci koşul gereksinimleri belirlemektir.veritaban
 Avantajları Nelerdir?
 Veritabanının avantajları sisteminin içeriğine göre değişir. Yani tek (single user) ya da çok (multi users) kullanım sağlayan sistemlerdir.
   - ## Tek Kullanıcılı(Single User) Sistemler
-    Bazı veritabanları küçük ve basit olarak tanımlanır. Fakat sağladığı avantajlar basit ve küçük değildir.
+    Bazı veritabanları küçük ve basit olarak tanımlanır. Fakat sağladığı avantajlar basit ve küçük değildir.  
     bu alt satırda mı?
 
