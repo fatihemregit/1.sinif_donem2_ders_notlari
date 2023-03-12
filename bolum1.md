@@ -1,4 +1,4 @@
-# Veritabanı Nedir?
+- # Veritabanı Nedir?
 
 
 Veritabanı çokça verinin tutulduğu bir sanal bir yer gibi düşünebiliriz
