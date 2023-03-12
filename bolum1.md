@@ -17,4 +17,8 @@ Veritabanı tasarlanırken birinci koşul gereksinimleri belirlemektir.veritaban
     - Veritabanı gereksinim duyulabilecek her düzeyde bilgiyi sağlayabilecek raporlara sahip olmalıdır
     - Zamanında ve doğru bilgiler içermelidir. 
     - Sorulabilecek tüm sorulara yanıt verebilecek bir sorgu diline sahip olmalıdır. Veritabanları tutarlı olmalıdır. Bir gerçeği gösteren iki bilgi birbirine aykırı düşmemelidir.
-    - 
+- # Veritabanı Neden Oluşturulmalıdır?
+Avantajları Nelerdir?
+Veritabanının avantajları sisteminin içeriğine göre değişir. Yani tek (single user) ya da çok (multi users) kullanım sağlayan sistemlerdir.
+  - ## Tek Kullanıcılı(Single User) Sistemler
+    Bazı veritabanları küçük ve basit olarak tanımlanır. Fakat sağladığı avantajlar basit ve küçük değildir. 
