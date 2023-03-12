@@ -39,7 +39,10 @@ Veritabanının avantajları sisteminin içeriğine göre değişir. Yani tek (s
 - # Veritabanın Sağladığı Avantajlar
 Veritabanın sağladığı bazı avantajlar vardır.  
 Bunlar:
-// Buraya linkleme yapılacak
+  - [deneme](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#ortakla%C5%9Fa-kullan%C4%B1m)
+
+
+
   - ## Ortaklaşa Kullanım:
     Çekmecelerdeki bir kartotekse, aynı anda iki kişinin yerlerinden kalkmadan bakabilmesi adeta olanaksızdır.  
 Bilgisayar ortamında, birden fazla kişi  farklı terminallerden aynı veriye erişebilir.
