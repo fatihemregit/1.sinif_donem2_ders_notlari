@@ -13,4 +13,8 @@ Veri ambarı veritabanını yormamak için oluşturulmuştur.
 
 - # Bir Veritabanı Nasıl Tasarlanır?
 Veritabanı tasarlanırken birinci koşul gereksinimleri belirlemektir.veritabanı bir bütün olarak görüldükten sonra hazırlanmasına geçilmelidir. 
- - - ## Veritabanı Oluşturmada etkin olan özellikler
+  - ## Veritabanı Oluşturmada etkin olan özellikler
+    - Veritabanı gereksinim duyulabilecek her düzeyde bilgiyi sağlayabilecek raporlara sahip olmalıdır
+    - Zamanında ve doğru bilgiler içermelidir. 
+    - Sorulabilecek tüm sorulara yanıt verebilecek bir sorgu diline sahip olmalıdır. Veritabanları tutarlı olmalıdır. Bir gerçeği gösteren iki bilgi birbirine aykırı düşmemelidir.
+    - 
