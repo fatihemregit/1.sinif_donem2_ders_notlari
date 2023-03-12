@@ -36,7 +36,23 @@ Veritabanının avantajları sisteminin içeriğine göre değişir. Yani tek (s
       - Verinin paylaşımı sağlanır.
       - Güvenlik ve bütünlük sağlanır.
       - Genel veya özel raporlar alınabilir.
-
-
+- # Veritabanın Sağladığı Avantajlar
+Veritabanın sağladığı bazı avantajlar vardır.Bunlar:
+// Buraya linkleme yapılacak
+  - ## Ortaklaşa Kullanım:
+    Çekmecelerdeki bir kartotekse, aynı anda iki kişinin yerlerinden kalkmadan bakabilmesi adeta olanaksızdır.  
+Bilgisayar ortamında, birden fazla kişi  farklı terminallerden aynı veriye erişebilir.
+  - ## Yerden Tasaruf:
+    Kağıt, dosya, klasör gibi çok yer tutan veri depolama ortamlarını büyük ölçüde ortadan kaldırarak yerden tasarruf edilir.
+  - ## Kolay Güncelleştirmek:
+    Gerçekleşen  bir işlemin bilgilerini anında ve otomatik olarak gerekli yerlere yansıtması mümkündür.
+  - ## Kolay Erişim:
+    Bir veriyi bulmak sıralamak, istenilen bilgileri ve toplamlarını yazıcıdan almak kartotekse örneği ile kıyaslanmayacak kadar kolaydır.
+  - ## Emniyet:
+    Girilen verilen geçerliliğini kontrol etmek, bazı kişilere erişimde kısıtlamalar koymak mümkündür.
+  - ## Analiz İmkanı:
+    Özellikle üretimde çok büyük bir avantajdır. Fakat maalesef genelde, bilgisayardan sadece  “takip” ten (ne gitti, ne geldi) yararlanılmaktadır.
+  
+ 
 
 
