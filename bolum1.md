@@ -1,4 +1,6 @@
 #- Veritabanı Nedir?
+
+
 Veritabanı çokça verinin tutulduğu bir sanal bir yer gibi düşünebiliriz
 Veritabanı,belli bir alanda ve birbiriyle ilişkilendirilmiş düzenlenmiş veri topluluğudur.
 .ilk defa 1960 lı yıllarda bahsedilmeye başlanmıştır.
