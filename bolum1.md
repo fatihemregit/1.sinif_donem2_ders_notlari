@@ -39,7 +39,14 @@ Veritabanının avantajları sisteminin içeriğine göre değişir. Yani tek (s
 - # Veritabanın Sağladığı Avantajlar
 Veritabanın sağladığı bazı avantajlar vardır.  
 Bunlar:
-  - [deneme](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#ortakla%C5%9Fa-kullan%C4%B1m)
+  - [Ortaklaşa Kullanım](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#ortakla%C5%9Fa-kullan%C4%B1m)
+  - [Yerden Tasaruf](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#yerden-tasaruf)
+  - [Kolay Güncelleştirmek](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#kolay-g%C3%BCncelle%C5%9Ftirmek)
+  - [Kolay Erişim](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#kolay-eri%C5%9Fim)
+  - [Emniyet](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#emniyet)
+  - [Analiz İmkanı](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#analiz-i%CC%87mkan%C4%B1)
+
+
 
 
 
