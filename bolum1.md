@@ -37,7 +37,8 @@ Veritabanının avantajları sisteminin içeriğine göre değişir. Yani tek (s
       - Güvenlik ve bütünlük sağlanır.
       - Genel veya özel raporlar alınabilir.
 - # Veritabanın Sağladığı Avantajlar
-Veritabanın sağladığı bazı avantajlar vardır.Bunlar:
+Veritabanın sağladığı bazı avantajlar vardır.  
+Bunlar:
 // Buraya linkleme yapılacak
   - ## Ortaklaşa Kullanım:
     Çekmecelerdeki bir kartotekse, aynı anda iki kişinin yerlerinden kalkmadan bakabilmesi adeta olanaksızdır.  
