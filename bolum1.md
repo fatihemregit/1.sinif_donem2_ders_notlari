@@ -111,6 +111,41 @@ Bilgisayar ortamında, birden fazla kişi  farklı terminallerden aynı veriye e
     Veritabanları kolayca yeniden yapılanmalı yeni veriler ve uygulamalar eklenebilmelidir.
   - ## Veri Bağımsızlığı
     Verilerin tek başına kullanabilmesi anlamına gelir.
-
-
-
+- # Veritabanı bileşenleri
+  - [Veri](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#veri)
+  - [Donanım](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#donan%C4%B1m)
+  - [Yazılım](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#yaz%C4%B1l%C4%B1m)
+  - [Yönetici](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#y%C3%B6netici)
+  - [Kullanıcı](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#kullan%C4%B1c%C4%B1)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  - ## Donanım
+    Verilerin saklanıldığı iletildiği, girildiği birimlerdir.  
+    Donanım, veritabanının ölçeklenebildiği ve kullanımında etkin olan bir bileşendir.
+  - ## Yazılım
+    Veritabanını düzenleyen erişim ve güvenliğini sağlayan programlardır.
+  - ## Yönetici
+    Veritabanını yöneten ve bakımını yapan yetkili kişilerdir.
+  - ## Kullanıcı
+    Veritabanında yapılan verilerin erişilmesini ve bunların kullanılmasını sağlarlar.
