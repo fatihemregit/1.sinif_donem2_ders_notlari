@@ -94,6 +94,7 @@ Bilgisayar ortamında, birden fazla kişi  farklı terminallerden aynı veriye e
 <br>
 <br>
 <br>
+<br> 
 <br>
 <br>
 <br>
@@ -101,8 +102,6 @@ Bilgisayar ortamında, birden fazla kişi  farklı terminallerden aynı veriye e
 <br>
 <br>
 <br>
-<br>
-
 
   - ## Fazlalık:
     Veritabanı içinde verilerin tekrarlanmasını önlemek anlamına gelir.  
@@ -140,6 +139,7 @@ Bilgisayar ortamında, birden fazla kişi  farklı terminallerden aynı veriye e
 <br>
 <br>
 <br>
+
   - ## Donanım
     Verilerin saklanıldığı iletildiği, girildiği birimlerdir.  
     Donanım, veritabanının ölçeklenebildiği ve kullanımında etkin olan bir bileşendir.
