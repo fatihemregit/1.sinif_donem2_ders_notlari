@@ -76,9 +76,9 @@ Bilgisayar ortamında, birden fazla kişi  farklı terminallerden aynı veriye e
   - Verilerin birçok kişi tarafından kullanılması, paylaşım
   - Verilere erişimin belirli bir güvenlik içinde sağlanması, güvenlik
 - # Veritabanındaki bazı temel kavramlar
-  - [Fazlalık](https://github.com/fatihemregit)
-  - [Değişme ve Büyüme](https://github.com/fatihemregit)
-  - [Veri Bağımsızlığı](https://github.com/fatihemregit)
+  - [Fazlalık](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#fazlal%C4%B1k)
+  - [Değişme ve Büyüme](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#de%C4%9Fi%C5%9Fme-ve-b%C3%BCy%C3%BCme)
+  - [Veri Bağımsızlığı](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#veri-ba%C4%9F%C4%B1ms%C4%B1zl%C4%B1%C4%9F%C4%B1)
 <br>
 <br>
 <br>
