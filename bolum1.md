@@ -68,5 +68,49 @@ Bilgisayar ortamında, birden fazla kişi  farklı terminallerden aynı veriye e
   - Dosya depoları yerine bilgisayarlar
   - Hız
   - İstenen verilere daha hızlı bir şekilde ulaşılması (erişim)
-  - 
+  - Kırtasiye, gereksiz kağıt kalem kullanılmaması sağlar
+  - Güncellik
+  - İstenen tüm bilgilere anında erişilmesi
+  - Kayıt tekrarının önlenmesi
+  - Veriler arasındaki tutarlılık
+  - Verilerin birçok kişi tarafından kullanılması, paylaşım
+  - Verilere erişimin belirli bir güvenlik içinde sağlanması, güvenlik
+- # Veritabanındaki bazı temel kavramlar
+  - [Fazlalık](https://github.com/fatihemregit)
+  - [Değişme ve Büyüme](https://github.com/fatihemregit)
+  - [Veri Bağımsızlığı](https://github.com/fatihemregit)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+  - ## Fazlalık:
+    Veritabanı içinde verilerin tekrarlanmasını önlemek anlamına gelir.  
+    Kontrolsüz bir veri tekrarı aynı verilerin farklı alanlarda gereksiz yere saklanması, hem maliyette hem de erişim hızlarında değişimler gösterir.
+  - ## Değişme Ve Büyüme:
+    Veritabanları kolayca yeniden yapılanmalı yeni veriler ve uygulamalar eklenebilmelidir.
+  - ## Veri Bağımsızlığı
+    Verilerin tek başına kullanabilmesi anlamına gelir.
+
+
 
