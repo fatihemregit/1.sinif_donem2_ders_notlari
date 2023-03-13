@@ -111,7 +111,7 @@ Bilgisayar ortamında, birden fazla kişi  farklı terminallerden aynı veriye e
   - ## Veri Bağımsızlığı
     Verilerin tek başına kullanabilmesi anlamına gelir.
 - # Veritabanı bileşenleri
-  - [Veri](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#veri)
+  - [Veri](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#veri-nedir)
   - [Donanım](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#donan%C4%B1m)
   - [Yazılım](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#yaz%C4%B1l%C4%B1m)
   - [Yönetici](https://github.com/fatihemregit/1.sinif_donem2_ders_notlari/blob/veritabani1/bolum1.md#y%C3%B6netici)
