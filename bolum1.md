@@ -63,7 +63,7 @@ Bilgisayar ortamında, birden fazla kişi  farklı terminallerden aynı veriye e
     Girilen verilen geçerliliğini kontrol etmek, bazı kişilere erişimde kısıtlamalar koymak mümkündür.
   - ## Analiz İmkanı:
     Özellikle üretimde çok büyük bir avantajdır. Fakat maalesef genelde, bilgisayardan sadece  “takip” ten (ne gitti, ne geldi) yararlanılmaktadır.
-Sayılan avantajlara sahip bir veritabanı sisteminin klasik veri depolama sistemlerine göre üstünlükleri maddeler halinde şöyle sıralanabilir:
+## Sayılan avantajlara sahip bir veritabanı sisteminin klasik veri depolama sistemlerine göre üstünlükleri maddeler halinde şöyle sıralanabilir:
   - Ergonomi
   - Dosya depoları yerine bilgisayarlar
   - Hız
