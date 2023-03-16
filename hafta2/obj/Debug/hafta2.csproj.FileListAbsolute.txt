@@ -1,0 +1,8 @@
+D:\uni_ders\2.dönem\Nesne_Tabanli_Programlama\2.Hafta\evde_yaptigim_proje\hafta2\obj\Debug\hafta2.csproj.AssemblyReference.cache
+D:\uni_ders\2.dönem\Nesne_Tabanli_Programlama\2.Hafta\evde_yaptigim_proje\hafta2\obj\Debug\hafta2.csproj.SuggestedBindingRedirects.cache
+D:\uni_ders\2.dönem\Nesne_Tabanli_Programlama\2.Hafta\evde_yaptigim_proje\hafta2\obj\Debug\hafta2.csproj.CoreCompileInputs.cache
+D:\uni_ders\2.dönem\Nesne_Tabanli_Programlama\2.Hafta\evde_yaptigim_proje\hafta2\bin\Debug\hafta2.exe.config
+D:\uni_ders\2.dönem\Nesne_Tabanli_Programlama\2.Hafta\evde_yaptigim_proje\hafta2\bin\Debug\hafta2.exe
+D:\uni_ders\2.dönem\Nesne_Tabanli_Programlama\2.Hafta\evde_yaptigim_proje\hafta2\bin\Debug\hafta2.pdb
+D:\uni_ders\2.dönem\Nesne_Tabanli_Programlama\2.Hafta\evde_yaptigim_proje\hafta2\obj\Debug\hafta2.exe
+D:\uni_ders\2.dönem\Nesne_Tabanli_Programlama\2.Hafta\evde_yaptigim_proje\hafta2\obj\Debug\hafta2.pdb
